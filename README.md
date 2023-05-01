@@ -1,7 +1,8 @@
-# data-science-bootcamp
+<h1># data-science-bootcamp </h1>
 python exercise from bootcamp
 
-# 1: Triathlon Award
+
+<h2># 1: Triathlon Award<h/2>
 Design a programme that determines the award a person competing in a triathlon will receive.
 - Programme reads in the times (in minutes) for all three events of a triathlon, namely swimming, cycling, and running, and then calculates and displays the total time taken to complete the triathlon.
 - Participants receives an award based on the total time taken to complete the triathlon. The qualifying time for awards is 100 minutes. 
@@ -11,7 +12,7 @@ Design a programme that determines the award a person competing in a triathlon w
     Provincial Scroll: within 10 minutes of qualifying time/
     No award: More than 10 minutes of qualifying time.
 
-# 2: Holiday.py
+<h2># 2: Holiday.py</h2>
 A simple calculation for holiday cost/
 1. city_flight: user chooses which city to fly to.
 2. num_nights: The number of nights they will be staying at a hotel.
