@@ -22,3 +22,7 @@ python exercise from bootcamp
     6. car_rental: This function take the rental_days as an argument and return the total cost of the car rental.(default rental price per day is £80)
     7. holiday_cost: prints out the total cost for flights, hotel, and car rental.
 
+# 3:alternative.py
+    A function that alternate characters in UPPERCASE and lowercase (e.g, the string “Hello World” would become “HeLlO WoRlD”).
+    Next code will alternate characters in each word (e.g. the string: “I am learning to code” -> “i AM learning TO code”) 
+    using the split and join functions.
