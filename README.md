@@ -2,7 +2,7 @@
 python exercise from bootcamp
 
 
-# 1: Triathlon Award 
+# 1: Triathlon Award.py 
     Design a programme that determines the award a person competing in a triathlon will receive.
     - Programme reads in the times (in minutes) for all three events of a triathlon, namely swimming, cycling, and running, and then calculates and                 displays the total time taken to complete the triathlon.
     - Participants receives an award based on the total time taken to complete the triathlon. The qualifying time for awards is 100 minutes. 
@@ -22,7 +22,7 @@ python exercise from bootcamp
     6. car_rental: This function take the rental_days as an argument and return the total cost of the car rental.(default rental price per day is £80)
     7. holiday_cost: prints out the total cost for flights, hotel, and car rental.
 
-# 3:alternative.py
+# 3: alternative.py
     A function that alternate characters in UPPERCASE and lowercase (e.g, the string “Hello World” would become “HeLlO WoRlD”).
     Next code will alternate characters in each word (e.g. the string: “I am learning to code” -> “i AM learning TO code”) 
     using the split and join functions.
