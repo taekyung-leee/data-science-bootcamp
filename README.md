@@ -26,3 +26,5 @@ python exercise from bootcamp
     A function that alternate characters in UPPERCASE and lowercase (e.g, the string “Hello World” would become “HeLlO WoRlD”).
     Next code will alternate characters in each word (e.g. the string: “I am learning to code” -> “i AM learning TO code”) 
     using the split and join functions.
+# 4: cafe.py
+    Using dictionary and list function in python to calculate the price of total stocks at the imaginary cafe.
