@@ -13,7 +13,7 @@ python exercise from bootcamp
         No award: More than 10 minutes of qualifying time.
    
 # 2: Holiday.py
-    A simple calculation for holiday cost/
+    A simple calculation for holiday cost
     1. city_flight: user chooses which city to fly to.
     2. num_nights: The number of nights they will be staying at a hotel.
     3. rental_days: The number of days that they will be hiring a car for.
